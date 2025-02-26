@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello, I'm Edo! From Indonesia👋<br>[🎮 Solo Game Developer | 🎨 3D Artist | 🖥️ Unity Enthusiast : (Newbie and still learning)]<br> And yeah, am a burd!🐦
+## Hello, I'm Edo! From Indonesia👋<br>[🎮 Solo Game Developer | 🎨 3D Artist | 🖥️ Unity Enthusiast | 🎬 SFM Animator : (Newbie and still learning)]<br> And yeah, am a burd!🐦
 
 
 ## 🌐 Socials:
