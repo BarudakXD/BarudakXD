@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, I'm Edo from Indonesia! 👋  
-Just wanna be: [🎮 Solo Game Developer | 🎨 3D Artist | 🖥️ Unity Enthusiast | 🎬 SFM Animator] !!! (Still learning)<br>  
+Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 SFM Animator ] (Still learning)<br>  
 And yeah, am a burd! 🐦  
 
 ## 🌐 Socials:
