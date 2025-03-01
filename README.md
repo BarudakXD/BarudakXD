@@ -1,11 +1,13 @@
 # 💫 About Me:
-## Hello, I'm Edo! From Indonesia👋<br>[🎮 Solo Game Developer | 🎨 3D Artist | 🖥️ Unity Enthusiast | 🎬 SFM Animator ] !!! (Newbie and still learning)<br> And yeah, am a burd!🐦
+## Hello, I'm Edo from Indonesia! 👋  
+Just wanna be: [🎮 Solo Game Developer | 🎨 3D Artist | 🖥️ Unity Enthusiast | 🎬 SFM Animator] !!! (Still learning)<br>  
+And yeah, am a burd! 🐦  
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anomaly2k25) 
 
 # 🛠️ Tools I Use:
-## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use blender software to create or modify models!
+## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) <span style="font-size:18px;">I use blender software to create or modify models!</span>
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.png" width="500">
 
 ## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
