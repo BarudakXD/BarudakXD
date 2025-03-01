@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hello, I'm Edo from Indonesia! 👋  
-Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)<br>  
-And yeah, am a burd! 🐦  
+Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)
+And yeah, am a burd!🐦
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anomaly2k25) 
