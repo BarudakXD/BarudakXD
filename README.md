@@ -7,10 +7,11 @@ And yeah, am a burd! 🐦
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anomaly2k25) 
 
 # 🛠️ Tools I Use:
-## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) <span style="font-size:18px;">I use blender software to create or modify models!</span>
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.png" width="500">
+## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use blender software to create or modify models!
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.png" width="300">
 
-## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
+## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) I use unity engine to learn game development!
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest3.png" width="300">
 
 ## [![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-%23525353.svg?logo=steam&logoColor=white)](https://www.sourcefilmmaker.com/)  
 
