@@ -8,8 +8,8 @@ And yeah, am a burd!🐦
 
 # 🛠️ Tools I Use:
 ## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use blender software to create or modify 3D models!
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender1.jpg" width="300">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender2.jpg" width="300">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender2.jpg" width="500">
 
 ## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) I use unity engine to learn game development!
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest3.png" width="500">
