@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## Hello, I'm Edo from Indonesia! 👋  
-Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)
-And yeah, am a burd!🐦
+Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)!
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anomaly2k25) 
@@ -18,5 +17,5 @@ And yeah, am a burd!🐦
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm2.gif" width="500">
 
-<p align="center"> 🐦 </p>
+<p align="center" ><font size="10"> And yeah, am a burd!🐦 </font></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
