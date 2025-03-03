@@ -17,5 +17,5 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm2.gif" width="500">
 
-<p align="center" ><font size="10"> And yeah, am a burd!🐦 </font></p>
+# <p align="center" ><font size="10"> And yeah, am a burd!🐦 </font></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
