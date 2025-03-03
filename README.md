@@ -17,12 +17,6 @@ And yeah, am a burd!🐦
 ## [![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-%23525353.svg?logo=steam&logoColor=white)](https://www.sourcefilmmaker.com/) I use Source Filmmaker (SFM) to learn animation!
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm2.gif" width="500">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BarudakXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BarudakXD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarudakXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=BarudakXD&icon=9&color=0)](https://visitcount.itsvg.in)
-
+<p align="center"> 🐦 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
