@@ -15,8 +15,8 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 #
 
 ## [![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-%23525353.svg?logo=steam&logoColor=white)](https://www.sourcefilmmaker.com/) I use Source Filmmaker (SFM) to learn animation!
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/sfm2.gif" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Sfmm.jpg" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Sfmm1.gif" width="500">
 
 # 
 ### <p align="center" ><font size="10"> And yeah, am a burd!🐦 </font></p>
