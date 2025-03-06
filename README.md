@@ -2,9 +2,6 @@
 ## Hello, I'm Edo from Indonesia! 👋  
 Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)!
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anomaly2k25) 
-
 # 🛠️ Tools I Use:
 ## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use Blender to learn how to create and modify 3D models!
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender1.jpg" width="500">
