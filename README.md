@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## Hello, I'm Edo from Indonesia! 👋  
 Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)!
+![Visitor Count](https : //profile-counter.glitch.me/BarudakXD/count.svg)
 
 # 🛠️ Tools I Use:
 ## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use Blender to learn how to create and modify 3D models!
