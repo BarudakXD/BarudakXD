@@ -14,6 +14,9 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 ## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) I use the unity engine to learn game development!
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr1.jpg" width="500">
+
+## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/suw7qvyz2den73p/Demo.zip/file
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restroom1.gif" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr2.gif" width="500">
 
 #
