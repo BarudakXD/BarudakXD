@@ -16,6 +16,7 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr1.jpg" width="500">
 
 ## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/suw7qvyz2den73p/Demo.zip/file
+Thanks for playing the demo! If you find any bugs or problems, feel free to report to me in PonyTown.
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restroom1.gif" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr2.gif" width="500">
 
