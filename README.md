@@ -27,5 +27,5 @@ Thanks for playing the demo! If you find any bugs or problems, feel free to repo
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Sfmm1.gif" width="500">
 
 # 
-### <p align="center" ><font size="10"> It sound cringe if you think you hate your life... Like, Wth🤓. </font></p>
+### <p align="center" ><font size="10"> What?🤨 </font></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
