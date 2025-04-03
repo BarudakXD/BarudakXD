@@ -2,7 +2,7 @@
 ## Hello, I'm Edo from Indonesia! 👋  
 Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (Still learning)!
 #
-[![YouTube](https://img.shields.io/badge/YouTube-@anomaly2k25-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@anomaly2k25)
+[![YouTube](https://img.shields.io/badge/YouTube-@anomaly2k25-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@anomaly2k25) Not active now, but maybe in the future.
 
 # 🛠️ Tools I Use:
 ## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use Blender to learn how to create and modify 3D models!
@@ -27,5 +27,5 @@ Thanks for playing the demo! If you find any bugs or problems, feel free to repo
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Sfmm1.gif" width="500">
 
 # 
-### <p align="center" ><font size="10"> And yeah, am a burd!🐦 </font></p>
+### <p align="center" ><font size="10"> It sound cringe if you think you hate your life... Like, Wth🤓. </font></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
