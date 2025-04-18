@@ -11,12 +11,14 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 # 
 
 ## [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) I use the unity engine to learn game development!
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/AbandonedProject1.png" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/AbandonedProject2.png" width="500">
 
 ## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/cj2tm3nimyj7ts5/Abandoned.zip/file
 Thanks for playing the demo! If you find any bugs or problems, feel free to report to me in PonyTown.
-
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Abandoned1.png" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Abandoned2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/abandonedRec.gif" width="500">
 
 #
 
