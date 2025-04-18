@@ -16,9 +16,8 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 
 ## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/cj2tm3nimyj7ts5/Abandoned.zip/file
 Thanks for playing the demo! If you find any bugs or problems, feel free to report to me in PonyTown.
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Abandoned1.png" width="500">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Abandoned2.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/abandonedRec.gif" width="500">
+<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/Abandoned2.jpg" width="500">
 
 #
 
