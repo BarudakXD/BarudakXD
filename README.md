@@ -7,7 +7,6 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 # 🛠️ Tools I Use:
 ## [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/) I use Blender to learn how to create and modify 3D models!
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/blender2.jpg" width="500">
 
 # 
 
@@ -15,10 +14,9 @@ Just wanna be: [ 🎮 Solo Game Developer | 🎨 3D Artist | 🎬 Animator ] (St
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/rest1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr1.jpg" width="500">
 
-## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/suw7qvyz2den73p/Demo.zip/file
+## This is my current project. You can download and try the demo here (Map Only): https://www.mediafire.com/file/cj2tm3nimyj7ts5/Abandoned.zip/file
 Thanks for playing the demo! If you find any bugs or problems, feel free to report to me in PonyTown.
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restroom1.gif" width="500">
-<img src="https://raw.githubusercontent.com/BarudakXD/BarudakXD/main/Screenshot/restr2.gif" width="500">
+
 
 #
 
